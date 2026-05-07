@@ -15,19 +15,18 @@ A simple browser-based Snake Game developed using HTML, CSS, and JavaScript with
 - JavaScript
 
 ## Project Structure:
-snake_game/
-│
-├── index.html
-├── style.css
-├── index.js
-├── bg.jpg
-├── food.mp3
-├── move.mp3
-├── gameover.mp3
-├── music.mp3
-├── REPORT.docx
-├── Demo.vid.mp4
-└── Resources.txt
+File Name	Description
+index.html	Main webpage containing the game structure
+style.css	Styling file for game design and layout
+index.js	Main JavaScript file containing game logic
+bg.jpg	Background image used in the game
+food.mp3	Sound played when food is eaten
+move.mp3	Sound played during movement
+gameover.mp3	Sound played when game ends
+music.mp3	Background game music
+REPORT.docx	Project report/documentation
+Demo.vid.mp4	Game demonstration video
+Resources.txt	References and resources used
 
 ## Game Controls
 | Key | Function |
